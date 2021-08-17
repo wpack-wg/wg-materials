@@ -29,9 +29,13 @@ Chairs (10min)
 - Jabber Scribe
 - Status
 
+[Slides](https://github.com/wpack-wg/wg-materials/blob/main/ietf111/wpack%40ietf111_chair_slides.pdf)
+
 ### draft-yasskin-wpack-use-cases adoption - 10min - Chairs
 
 ### Bundle PRs
+
+[Slides](https://github.com/wpack-wg/wg-materials/blob/main/ietf111/wpack%40ietf111_web_bundles.pdf)
 
 I-D: https://www.ietf.org/archive/id/draft-yasskin-wpack-bundled-exchanges-03.txt \
 Repo: https://wicg.github.io/webpackage/draft-yasskin-wpack-bundled-exchanges.html 
